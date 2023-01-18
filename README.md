@@ -1,6 +1,6 @@
 
 
-### Olá! Eu sou o Daniel Marra 🖐️
+### HeLlo! I'm Daniel Marra 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://instagram.com/daniel.kkzk)
